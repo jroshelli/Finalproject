@@ -11,6 +11,10 @@ Navigate to the saved location and build the docker image by running:
 ```bash
 make build
 ```
+Add a folder for the output:
+```bash
+mkdir output
+```
 
 Or pull the docker image using the following:
 ```bash
